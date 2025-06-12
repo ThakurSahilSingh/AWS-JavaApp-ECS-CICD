@@ -1,0 +1,13 @@
+[
+  {
+    "name": "myapp",
+    "imageUri": "",
+    "essential": true,
+    "portMappings": [
+      {
+        "containerPort": 3000,
+        "hostPort": 3000
+      }
+    ]
+  }
+]
